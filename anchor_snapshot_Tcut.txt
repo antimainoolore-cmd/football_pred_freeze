@@ -1,0 +1,13 @@
+T_cut                     = 2026-09-21T05:00:00Z
+capture_started_utc       = 2026-09-21T05:00:00Z
+capture_finished_utc      = 2026-09-21T05:01:10Z
+source_endpoint           = sportmonks_v3
+source_response_L8_sha256 = 92112f44bc2c3b14fd6819f46b0a4d1c604a6cf75f6f2596c20d55aceecebc42
+source_response_L9_sha256 = 555ae1ce01b0b9cdbbb27d5753a9d13db62d6a9bebab5ca0c2882d31174e9c4a
+source_response_L3_sha256 = f482476f912a6ba8307251a0eb6120c23b3f8756e2759f8a231301317597b2a6
+snapshot_L8_Tcut.parquet  sha256 = 56db59d1349c8270fd6807b27e559395dfb9a6e46a203da746acf1e1d5724c03
+snapshot_L9_Tcut.parquet  sha256 = 0010f36d46f42f3200785ae182590f0c0146a304178426a07d5ae7d6e269b329
+snapshot_L3_Tcut.parquet  sha256 = 032b70ac22c761fc2dca751590761a76448f5db3e5444aac65124d5075464e46
+conforming_to_Tcut         = true
+max_capture_delay_seconds  = 3600
+eligibility_rule           = schedule_state_id in {5,7,8}
